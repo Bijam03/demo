@@ -1,4 +1,4 @@
 # demo
-This is demo repo for practice.
-# Author chinmay
+This is demo repo for practice....
+
 
