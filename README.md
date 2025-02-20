@@ -1,2 +1,2 @@
 # demo
-This is demo repo for practice
+This is demo repo for practice.
